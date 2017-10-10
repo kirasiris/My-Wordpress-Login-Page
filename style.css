@@ -1,0 +1,64 @@
+/******************** Login Page ********************/
+body.login {
+	background: url(https://images.alphacoders.com/201/thumb-1920-201591.jpg) repeat center center;
+	background-size:cover;
+	}
+body.login div#login {}
+body.login div#login h1 {}
+body.login div#login h1 a {
+        background-image: url(img/login-register-lost.png);
+		height:80px;
+		width:80px;
+		background-size: 80px 80px;
+		background-repeat: no-repeat;
+        padding-bottom: 30px;
+	}
+/******************** Login Form ********************/
+body.login div#login form#loginform {
+	border: 1px solid #ffffff;
+    background: transparent;
+	}
+body.login div#login form#loginform p {}
+body.login div#login form#loginform p label {
+	color:#ffffff;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	}
+body.login div#login p#nav {
+	color:#ffffff;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	}
+body.login div#login p#nav a {
+	color:#ffffff;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	}
+body.login div#login p#backtoblog {}
+body.login div#login p#backtoblog a {
+	color:#ffffff;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	}
+/******************** Register Form ********************/
+body.login div#login form#registerform {
+	border: 1px solid #ffffff;
+    background: transparent;
+	}
+body.login div#login form#registerform p {
+	color:#ffffff;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	}
+body.login div#login form#registerform p label {
+	color:#ffffff;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	}
+/******************** Lost Password Form ********************/
+body.login div#login form#lostpasswordform {
+	border: 1px solid #ffffff;
+    background: transparent;
+	}
+body.login div#login form#lostpasswordform p {
+	color:#ffffff;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	}
+body.login div#login form#lostpasswordform p label {
+	color:#ffffff;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	}
